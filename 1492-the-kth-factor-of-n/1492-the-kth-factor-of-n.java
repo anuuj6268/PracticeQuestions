@@ -1,11 +1,11 @@
 class Solution {
     public int kthFactor(int n, int k) {
         int[] arr = new int[n];
-        int count  = 0;
+        int count1  = 0;
         for(int i = 1;i<=n;i++){
             if(n%i==0){
-                arr[count]=i;
-                count++;
+                arr[count1]=i;
+                count1++;
             }
         }
    int value = arr[k-1];
