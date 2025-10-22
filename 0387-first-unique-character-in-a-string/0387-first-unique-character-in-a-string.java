@@ -1,9 +1,9 @@
 import java.util.*;
 class Solution {
     public int firstUniqChar(String s) {
-        char[] ch = s.toCharArray();
+        char[] ch1 = s.toCharArray();
         ArrayList<Character> list = new ArrayList<>();
-        for(Character c : ch){
+        for(Character c : ch1){
             list.add(c);
         }
         LinkedHashSet<Character> set = new LinkedHashSet<>(list);
