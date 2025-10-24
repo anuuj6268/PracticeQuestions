@@ -1,10 +1,10 @@
 class Solution {
-    public boolean isPalindrome(int x1) {
+    public boolean isPalindrome(int x) {
         int reverse = 0;
-        int copy = x1;
-        while(x1>0){
-            reverse = ((reverse*10)+x1%10);
-            x1 = x1/10;
+        int copy = x;
+        while(x>0){
+            reverse = ((reverse*10)+x%10);
+            x = x/10;
         }
 if(reverse == copy){
     return true;
