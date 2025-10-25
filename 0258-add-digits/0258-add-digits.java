@@ -1,9 +1,9 @@
 class Solution {
-public static int getSum(int nums){
+public static int getSum(int num){
          int sum = 0;  
-        while(nums!=0){
-        sum = sum + (nums%10);
-        nums = nums/10;
+        while(num!=0){
+        sum = sum + (num%10);
+        num = num/10;
     }
     return sum;
 }
