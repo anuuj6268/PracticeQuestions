@@ -1,12 +1,12 @@
 import java.util.Arrays;
 
 class Solution {
-    public int firstMissingPositive(int[] nums) {
-        Arrays.sort(nums);
+    public int firstMissingPositive(int[] num) {
+        Arrays.sort(num);
         int smallest1 = 1; 
         
-        for (int num : nums) {
-            if (num == smallest1) {
+        for (int nu : num) {
+            if (nu == smallest1) {
                 smallest1++; 
             }
         }
