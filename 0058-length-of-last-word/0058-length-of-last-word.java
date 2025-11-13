@@ -1,9 +1,9 @@
 class Solution {
-public static String[] wordList(String str1){
-    return str1.split(" ");
+public static String[] wordList(String str){
+    return str.split(" ");
 }
-public int lengthOfLastWord(String str1) {
-String wordlist[] = wordList(str1);
+public int lengthOfLastWord(String str) {
+String wordlist[] = wordList(str);
 String lastWords = wordlist[wordlist.length-1];
 return lastWords.length();        
     }
