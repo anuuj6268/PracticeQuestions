@@ -4,7 +4,7 @@ public static String[] wordList(String str){
 }
 public int lengthOfLastWord(String str) {
 String wordlist[] = wordList(str);
-String lastWords = wordlist[wordlist.length-1];
-return lastWords.length();        
+String lastWord = wordlist[wordlist.length-1];
+return lastWord.length();        
     }
 }
