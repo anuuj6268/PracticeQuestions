@@ -8,8 +8,8 @@ public static int getSum(int num){
     return sum;
 }
 
-    public int addDigits(int num) {
-int sumValue = getSum(num);      
+    public int addDigits(int nums) {
+int sumValue = getSum(nums);      
 while(sumValue>9){
     sumValue = getSum(sumValue);
 }
