@@ -1,15 +1,15 @@
 class Solution {
 public static int getSum(int num){
-         int sums = 0;  
+         int sum = 0;  
         while(num!=0){
-        sums = sums + (num%10);
+        sum = sum + (num%10);
         num = num/10;
     }
-    return sums;
+    return sum;
 }
 
-    public int addDigits(int nums) {
-int sumValue = getSum(nums);      
+    public int addDigits(int num) {
+int sumValue = getSum(num);      
 while(sumValue>9){
     sumValue = getSum(sumValue);
 }
