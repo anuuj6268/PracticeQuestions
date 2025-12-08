@@ -1,13 +1,13 @@
 class Solution {
-    public boolean canAliceWin(int[] num) {
+    public boolean canAliceWin(int[] nums) {
         int sumofSingleDigit = 0;
         int sumOfDoubleDigit = 0;
     for(int i = 0;i<num.length;i++){
-        if(num[i]>9){
-            sumOfDoubleDigit = sumOfDoubleDigit + num[i];
+        if(nums[i]>9){
+            sumOfDoubleDigit = sumOfDoubleDigit + nums[i];
         }
         else{
-            sumofSingleDigit = sumofSingleDigit + num[i];
+            sumofSingleDigit = sumofSingleDigit + nums[i];
         }
     }
 
