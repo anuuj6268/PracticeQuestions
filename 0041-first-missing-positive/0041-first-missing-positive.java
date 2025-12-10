@@ -3,13 +3,13 @@ import java.util.Arrays;
 class Solution {
     public int firstMissingPositive(int[] nums) {
         Arrays.sort(nums);
-        int small = 1; 
+        int smalls = 1; 
         
         for (int num : nums) {
-            if (num == small) {
-                small++; 
+            if (num == smalls) {
+                smalls++; 
             }
         }
-        return small; 
+        return smalls; 
     }
 }
