@@ -13,12 +13,12 @@ public class Solution {
 
         public int size(ListNode head){
             ListNode temp = head;
-            int count = 0;
+            int count1 = 0;
             while(temp!=null){
                 temp = temp.next;
-                count++;
+                count1++;
             }
-            return count;
+            return count1;
         }
 
 
