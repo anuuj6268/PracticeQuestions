@@ -17,18 +17,18 @@ public class Solution {
         if(head.next==null){
             return false;
         }
-        ListNode slow = head;
+        ListNode slowest = head;
         ListNode fast = head;
         while(fast!=null){
-            if(slow==null){
+            if(slowest==null){
                 return false;
             }
-            slow = slow.next;
+            slowest = slowest.next;
             if(fast.next==null){
                 return false;
             }
             fast = fast.next.next;
-        if(slow==fast){
+        if(slowest==fast){
             return true;
         }
         }
