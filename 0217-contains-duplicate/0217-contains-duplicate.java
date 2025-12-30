@@ -1,8 +1,8 @@
 class Solution {
-    public boolean containsDuplicate(int[] number) {
-Arrays.sort(number);
-for(int i = 0;i<number.length-1;i++){
-   if(number[i]==number[i+1]){
+    public boolean containsDuplicate(int[] numb) {
+Arrays.sort(numb);
+for(int i = 0;i<numb.length-1;i++){
+   if(numb[i]==numb[i+1]){
     return true;
    }
 }
