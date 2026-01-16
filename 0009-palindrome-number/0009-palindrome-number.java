@@ -1,14 +1,15 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int reverse = 0;
-        int copy = x;
-        while(x>0){
-            reverse = ((reverse*10)+x%10);
-            x = x/10;
-        }
-if(reverse == copy){
-    return true;
+        String ans = String.valueOf(x);
+        int left = 0;
+        int right = ans.length()-1;
+while(left<right){
+    if(ans.charAt(left)!=ans.charAt(right)){
+        return false;
+    }
+    left++;
+    right--;
 }
-return false;
+return true;
     }
 }
