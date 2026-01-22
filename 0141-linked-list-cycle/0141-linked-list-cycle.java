@@ -10,15 +10,15 @@
  * }
  */
 public class Solution {
-    public boolean hasCycle(ListNode hea) {
-        if(hea==null){
+    public boolean hasCycle(ListNode header) {
+        if(header==null){
             return false;
         }
-        if(hea.next==null){
+        if(header.next==null){
             return false;
         }
-        ListNode slow = hea;
-        ListNode fast = hea;
+        ListNode slow = header;
+        ListNode fast = header;
         while(fast!=null){
             if(slow==null){
                 return false;
