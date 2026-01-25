@@ -12,8 +12,8 @@ class Solution {
             list.add("Fizz");
         }
         else{
-            String str = String.valueOf(i);
-            list.add(str); 
+            String string = String.valueOf(i);
+            list.add(string); 
         }
     }
 
