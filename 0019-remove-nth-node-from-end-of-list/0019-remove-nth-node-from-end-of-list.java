@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int num) {
+    public ListNode removeNthFromEnd(ListNode head, int nums) {
         ListNode slow = head;
         ListNode temp = head;
 
@@ -19,11 +19,11 @@ class Solution {
             temp = temp.next;
             count++;
         }
-        if(count==num){
+        if(count==nums){
     head = head.next;
     return head;
 }
-        for(int i = 0;i<num;i++){
+        for(int i = 0;i<nums;i++){
             fast = fast.next;
        
         }
