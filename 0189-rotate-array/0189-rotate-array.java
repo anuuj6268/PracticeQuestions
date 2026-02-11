@@ -19,6 +19,7 @@ public void reverseArr(int arr[],int start,int end){
 }
     public void rotate(int[] nums, int k) {
          int n = nums.length;
+         k = k % n;
         if(n==0 || k==0){
             return;
         }
@@ -26,7 +27,7 @@ public void reverseArr(int arr[],int start,int end){
             return;
         }
      
-        k = k % n;
+       
         reverseArr(nums,0,n-1);
         reverseArr(nums,0,k-1);
         reverseArr(nums,k,n-1);
