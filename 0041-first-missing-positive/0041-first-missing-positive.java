@@ -5,8 +5,8 @@ class Solution {
         Arrays.sort(nums);
         int smalls = 1; 
         
-        for (int number : nums) {
-            if (number == smalls) {
+        for (int num : nums) {
+            if (num == smalls) {
                 smalls++; 
             }
         }
