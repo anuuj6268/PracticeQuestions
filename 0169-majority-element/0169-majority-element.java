@@ -10,13 +10,14 @@ for(int i = 0;i<nums.length;i++){
     else{
         map.put(nums[i],1);
     }
+    }
     Set<Integer> set = map.keySet();
     for(Integer key : set){
         if(map.get(key)>nums.length/2){
           max = key;
         }
     }
-}
+
       
  
 return max;
