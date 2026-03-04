@@ -1,6 +1,6 @@
 class Solution {
-    public boolean isPalindrome(String str) {
-        String result = str.replaceAll("[^a-zA-Z0-9]", "");
+    public boolean isPalindrome(String strg) {
+        String result = strg.replaceAll("[^a-zA-Z0-9]", "");
         String finalResult = result.replaceAll(" ","");
         String laster =   finalResult.toLowerCase();
         char[] arr = laster.toCharArray();
