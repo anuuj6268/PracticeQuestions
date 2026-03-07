@@ -50,4 +50,8 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/anuuj6268/PracticeQuestions/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
