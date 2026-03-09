@@ -32,6 +32,7 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,8 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/anuuj6268/PracticeQuestions/tree/main/0176-second-highest-salary/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
