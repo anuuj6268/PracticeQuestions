@@ -1,9 +1,9 @@
 class Solution {
-public void reverseArr(int arr[],int start,int end){
+public void reverseArr(int arry[],int start,int end){
     while(start<end){
-        int temp = arr[start];
-        arr[start] = arr[end];
-        arr[end] = temp;
+        int temp = arry[start];
+        arry[start] = arry[end];
+        arry[end] = temp;
         start++;
         end--;
     }
