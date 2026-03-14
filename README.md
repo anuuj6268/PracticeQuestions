@@ -53,6 +53,7 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
