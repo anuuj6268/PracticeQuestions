@@ -7,8 +7,8 @@
  * }
  */
 class Solution {
-    public void deleteNode(ListNode noder) {
-        noder.val = noder.next.val;
-        noder.next = noder.next.next;
+    public void deleteNode(ListNode node) {
+        node.val = node.next.val;
+        node.next = node.next.next;
     }
 }
