@@ -61,6 +61,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0175-combine-two-tables](https://github.com/anuuj6268/PracticeQuestions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/anuuj6268/PracticeQuestions/tree/main/0176-second-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/anuuj6268/PracticeQuestions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0584-find-customer-referee](https://github.com/anuuj6268/PracticeQuestions/tree/main/0584-find-customer-referee/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
