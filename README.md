@@ -72,6 +72,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
