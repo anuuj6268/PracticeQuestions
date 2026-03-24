@@ -1,6 +1,6 @@
 class Solution {
-    public boolean isPalindrome(int x) {
-             String ans = String.valueOf(x);
+    public boolean isPalindrome(int xy) {
+             String ans = String.valueOf(xy);
         int left = 0;
         int right = ans.length()-1;
 while(left<right){
