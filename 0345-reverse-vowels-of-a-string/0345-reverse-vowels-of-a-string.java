@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isVowel(char ch){
+    public boolean isVowels(char ch){
         if(ch=='a' || ch=='A' || ch=='E' || ch=='e' || ch=='i' || ch=='I' || ch=='o' || ch=='O' || ch=='U' || ch=='u'){
             return true;
         }
@@ -12,10 +12,10 @@ class Solution {
         char[] ch = s.toCharArray();
         int j = ch.length-1;
         while(i<j){
-            if(!isVowel(ch[i])){
+            if(!isVowels(ch[i])){
              i++;
             }
-            else if(!isVowel(ch[j])){
+            else if(!isVowels(ch[j])){
                 j--;
             }
             else{
