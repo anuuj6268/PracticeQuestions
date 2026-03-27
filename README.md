@@ -44,12 +44,14 @@ To Improve my logic building & contains the concepts that i learn
 | [0058-length-of-last-word](https://github.com/anuuj6268/PracticeQuestions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
