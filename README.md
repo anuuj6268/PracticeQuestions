@@ -9,12 +9,14 @@ To Improve my logic building & contains the concepts that i learn
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
