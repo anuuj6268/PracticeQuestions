@@ -82,9 +82,18 @@ To Improve my logic building & contains the concepts that i learn
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0258-add-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/anuuj6268/PracticeQuestions/tree/main/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0206-reverse-linked-list/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
