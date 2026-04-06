@@ -1,9 +1,9 @@
 class Solution {
-    public int hammingWeight(int numb) {
+    public int hammingWeight(int number) {
         int num = 0;
-        while(numb!=0){
-            num = num + (numb%2);
-            numb = numb/2;
+        while (number != 0) {
+            num = num + (number % 2);
+            number = number / 2;
         }
         return num;
     }
