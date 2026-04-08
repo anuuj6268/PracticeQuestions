@@ -6,6 +6,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
@@ -82,6 +83,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
