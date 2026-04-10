@@ -1,20 +1,20 @@
 class Solution {
-    public int searchInsert(int[] nums, int targets) {
-        int count = -1;
+    public int searchInsert(int[] nums, int target) {
+        int counts = -1;
         
         for(int i = 0;i<nums.length;i++){
-if(nums[i]==targets){
-count = i;
+if(nums[i]==target){
+counts = i;
 break;
 }
-if(nums[i]>targets){
-    count = i;
+if(nums[i]>target){
+    counts = i;
     break;
 }
         }
- if(count==-1){
-    count = nums.length;
+ if(counts==-1){
+    counts = nums.length;
  }
-        return count;
+        return counts;
     }
 }
