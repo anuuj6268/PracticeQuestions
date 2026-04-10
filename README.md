@@ -6,6 +6,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
@@ -109,5 +110,6 @@ To Improve my logic building & contains the concepts that i learn
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
