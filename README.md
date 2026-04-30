@@ -33,6 +33,7 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -59,6 +60,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -68,6 +70,7 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0876-middle-of-the-linked-list/) | Easy |
