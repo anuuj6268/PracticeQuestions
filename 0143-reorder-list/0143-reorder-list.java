@@ -30,14 +30,14 @@ class Solution {
         }
         ListNode right = prev;
         ListNode left = head;
-        ListNode nextL,nextRR;
+        ListNode nextL,nextR;
         while(left!=null && right !=null){
             nextL = left.next;
             left.next = right;
-            nextRR = right.next;
+            nextR = right.next;
             right.next = nextL;
             left = nextL;
-            right = nextRR;
+            right = nextR;
         }
 
 
