@@ -59,6 +59,7 @@ To Improve my logic building & contains the concepts that i learn
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
@@ -70,6 +71,7 @@ To Improve my logic building & contains the concepts that i learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -100,6 +102,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/anuuj6268/PracticeQuestions/tree/main/0326-power-of-three/) | Easy |
 ## Simulation
@@ -115,4 +118,8 @@ To Improve my logic building & contains the concepts that i learn
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
