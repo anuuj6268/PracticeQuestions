@@ -14,6 +14,10 @@ public class Solution {
         public int size(ListNode head){
             ListNode temp = head;
             int count = 0;
+
+
+
+            
             while(temp!=null){
                 temp = temp.next;
                 count++;
