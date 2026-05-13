@@ -5,6 +5,8 @@ class Solution {
             num = num + (numb % 2);
             numb = numb / 2;
         }
+
+        
         return num;
     }
 }
