@@ -12,14 +12,14 @@
 public class Solution {
 
         public int size(ListNode head){
-            ListNode temp = head;
+            ListNode temper = head;
             int count = 0;
 
 
 
-            
-            while(temp!=null){
-                temp = temp.next;
+
+            while(temper!=null){
+                temper = temper.next;
                 count++;
             }
             return count;
