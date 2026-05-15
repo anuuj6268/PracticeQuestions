@@ -14,13 +14,13 @@ class Solution {
    
 
 
-        ListNode slow = head;
+        ListNode slower = head;
         ListNode fast = head;
         while(fast!=null && fast.next!=null){
-            slow = slow.next;
+            slower = slower.next;
             fast = fast.next.next;
         }
-        return slow;
+        return slower;
     }
     public boolean isPalindrome(ListNode head) {
         if(head==null || head.next == null){
