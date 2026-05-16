@@ -13,16 +13,16 @@ public class Solution {
 
         public int size(ListNode head){
             ListNode temper = head;
-            int count = 0;
+            int county = 0;
 
 
 
 
             while(temper!=null){
                 temper = temper.next;
-                count++;
+                county++;
             }
-            return count;
+            return county;
         }
 
 
