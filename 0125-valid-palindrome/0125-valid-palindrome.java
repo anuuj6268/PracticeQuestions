@@ -5,10 +5,10 @@ class Solution {
         String laster =   finalResult.toLowerCase();
         char[] arr = laster.toCharArray();
         int first = 0;
-        int last = arr.length-1;
-    while(first<last){
-   if(arr[first]==arr[last]){
-    last--;
+        int lastest = arr.length-1;
+    while(first<lastest){
+   if(arr[first]==arr[lastest]){
+    lastest--;
     first++;
    }  
    else{
