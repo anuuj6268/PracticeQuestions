@@ -8,6 +8,7 @@ class Solution {
          }
          if((num > -2147483648) && (num < 2147483647)){
              return num;
+
          }
         else{ return 0;
         }
