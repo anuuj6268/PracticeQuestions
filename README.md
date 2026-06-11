@@ -101,6 +101,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0258-add-digits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/anuuj6268/PracticeQuestions/tree/main/0326-power-of-three/) | Easy |
 | [2235-add-two-integers](https://github.com/anuuj6268/PracticeQuestions/tree/main/2235-add-two-integers/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/anuuj6268/PracticeQuestions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
