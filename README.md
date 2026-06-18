@@ -6,6 +6,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anuuj6268/PracticeQuestions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
@@ -57,6 +58,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anuuj6268/PracticeQuestions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
