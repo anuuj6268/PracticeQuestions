@@ -10,6 +10,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -64,6 +65,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -123,6 +125,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Stack
 |  |
