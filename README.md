@@ -7,6 +7,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -68,6 +69,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -155,4 +157,8 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
