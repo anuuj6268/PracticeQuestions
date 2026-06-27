@@ -8,6 +8,7 @@ To Improve my logic building & contains the concepts that i learn
 | ------- |
 | [0001-two-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuuj6268/PracticeQuestions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
@@ -23,6 +24,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
@@ -66,6 +68,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuuj6268/PracticeQuestions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
