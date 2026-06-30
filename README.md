@@ -8,6 +8,7 @@ To Improve my logic building & contains the concepts that i learn
 | ------- |
 | [0001-two-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anuuj6268/PracticeQuestions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -65,6 +66,7 @@ To Improve my logic building & contains the concepts that i learn
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anuuj6268/PracticeQuestions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anuuj6268/PracticeQuestions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
@@ -167,4 +169,8 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anuuj6268/PracticeQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
