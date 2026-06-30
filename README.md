@@ -14,6 +14,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0027-remove-element](https://github.com/anuuj6268/PracticeQuestions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuuj6268/PracticeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
@@ -28,6 +29,7 @@ To Improve my logic building & contains the concepts that i learn
 | ------- |
 | [0015-3sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
@@ -45,6 +47,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
@@ -62,6 +65,7 @@ To Improve my logic building & contains the concepts that i learn
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anuuj6268/PracticeQuestions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
