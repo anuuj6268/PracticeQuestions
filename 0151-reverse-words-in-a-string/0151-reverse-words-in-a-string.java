@@ -1,7 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
         s = s.replaceAll("\\s+"," ").trim();
-        int index = s.length()-1;
         String[] str = s.split(" ");
         int left = 0;
         int right = str.length-1;
@@ -13,7 +12,6 @@ class Solution {
             left++;
             right--;
         }
-        String ans = String.join(" ",str).trim();
-        return ans;
-    }
+        return String.join(" ",str);    
+        }
 }
