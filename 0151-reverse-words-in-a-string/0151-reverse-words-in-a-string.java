@@ -1,17 +1,23 @@
 class Solution {
     public String reverseWords(String s) {
-        s = s.replaceAll("\\s+"," ").trim();
-        String[] str = s.split(" ");
-        int left = 0;
-        int right = str.length-1;
-        while(left<right){
-            String temp = "";
-            temp = str[left];
-            str[left] = str[right];
-            str[right] = temp;
-            left++;
-            right--;
+     StringBuilder str = new StringBuilder();
+        int i = s.length()-1;
+        while(i>=0){
+            while(i>=0 && s.charAt(i)==' '){
+                i--;
+            }
+            if(i<0) break;
+            int j = i;
+            while(j>=0 && s.charAt(j)!=' '){
+                j--;
+            }
+
+            if(str.length()>0) str.append(" ");
+
+            str.append(s.substring(j+1,i+1));
+            i=j;
         }
-        return String.join(" ",str);    
-        }
+        
+return str.toString();
+    }
 }
