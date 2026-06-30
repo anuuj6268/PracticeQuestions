@@ -13,7 +13,7 @@ class Solution {
             left++;
             right--;
         }
-        String ans = String.join(" ",str);
+        String ans = String.join(" ",str).trim();
         return ans;
     }
 }
