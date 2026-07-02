@@ -54,6 +54,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +64,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0151-reverse-words-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,4 +176,8 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anuuj6268/PracticeQuestions/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anuuj6268/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
