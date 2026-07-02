@@ -48,6 +48,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anuuj6268/PracticeQuestions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -68,6 +69,7 @@ To Improve my logic building & contains the concepts that i learn
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anuuj6268/PracticeQuestions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anuuj6268/PracticeQuestions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anuuj6268/PracticeQuestions/tree/main/0058-length-of-last-word/) | Easy |
@@ -127,6 +129,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/anuuj6268/PracticeQuestions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/anuuj6268/PracticeQuestions/tree/main/0326-power-of-three/) | Easy |
