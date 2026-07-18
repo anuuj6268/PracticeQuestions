@@ -103,6 +103,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anuuj6268/PracticeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/anuuj6268/PracticeQuestions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuuj6268/PracticeQuestions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -138,6 +139,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anuuj6268/PracticeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0234-palindrome-linked-list/) | Easy |
