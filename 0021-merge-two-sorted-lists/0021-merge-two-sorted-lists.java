@@ -19,6 +19,8 @@ class Solution {
             temp.next = head1;
              temp = head1;
             head1 = head1.next; 
+
+            
         }
         else{
             temp.next = head2;
