@@ -1,7 +1,7 @@
 class Solution {
-    public List<List<String>> groupAnagrams(String[] str) {
+    public List<List<String>> groupAnagrams(String[] string) {
         Map<String,List> map = new HashMap<>();
-        for(String s : str){
+        for(String s : string){
             int[] arr = new int[26];
             for(char ch:s.toCharArray()){
                 arr[ch-'a']++;
