@@ -26,6 +26,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0303-range-sum-query-immutable](https://github.com/anuuj6268/PracticeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0242-valid-anagram](https://github.com/anuuj6268/PracticeQuestions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -101,6 +103,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
