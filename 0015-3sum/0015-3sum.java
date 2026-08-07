@@ -10,8 +10,9 @@ class Solution {
 
             while(left<right){
                 int sum = nums[left]+nums[right];
-                List<Integer> arr = new ArrayList<>();
+
                 if(sum==target){
+        List<Integer> arr = new ArrayList<>();
                     arr.add(-target);
                     arr.add(nums[left]);
                     arr.add(nums[right]);
@@ -37,5 +38,5 @@ class Solution {
 
 
 return list;
-    }
+    }   
 }
