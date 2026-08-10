@@ -26,11 +26,14 @@ class Solution {
                     left++;
                     right--;
                 }
+                
                 else if(sum>target){
                     right--;
+
                 }
                 else{
                     left++;
+
                 }
             }
 
