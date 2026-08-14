@@ -3,6 +3,10 @@ class Solution {
         int left = 0;
         int right = 0;
         int max = Integer.MIN_VALUE;
+
+
+
+        
         HashSet<Character> set = new HashSet<>();
         for(right = 0;right<s.length();right++){
 while(set.contains(s.charAt(right))){
