@@ -28,6 +28,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -203,10 +205,12 @@ To Improve my logic building & contains the concepts that i learn
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/anuuj6268/PracticeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuuj6268/PracticeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuuj6268/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
