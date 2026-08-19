@@ -80,6 +80,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuuj6268/PracticeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anuuj6268/PracticeQuestions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anuuj6268/PracticeQuestions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anuuj6268/PracticeQuestions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anuuj6268/PracticeQuestions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/anuuj6268/PracticeQuestions/tree/main/0125-valid-palindrome/) | Easy |
@@ -177,6 +178,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anuuj6268/PracticeQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -220,4 +222,8 @@ To Improve my logic building & contains the concepts that i learn
 | [0567-permutation-in-string](https://github.com/anuuj6268/PracticeQuestions/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuuj6268/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anuuj6268/PracticeQuestions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
