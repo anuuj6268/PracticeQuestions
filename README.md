@@ -181,6 +181,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0020-valid-parentheses](https://github.com/anuuj6268/PracticeQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/anuuj6268/PracticeQuestions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
 |  |
@@ -206,6 +207,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anuuj6268/PracticeQuestions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/anuuj6268/PracticeQuestions/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
