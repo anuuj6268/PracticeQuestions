@@ -18,6 +18,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuuj6268/PracticeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anuuj6268/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/anuuj6268/PracticeQuestions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anuuj6268/PracticeQuestions/tree/main/0169-majority-element/) | Easy |
@@ -146,6 +147,7 @@ To Improve my logic building & contains the concepts that i learn
 | ------- |
 | [0009-palindrome-number](https://github.com/anuuj6268/PracticeQuestions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/anuuj6268/PracticeQuestions/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anuuj6268/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anuuj6268/PracticeQuestions/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/anuuj6268/PracticeQuestions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/anuuj6268/PracticeQuestions/tree/main/0326-power-of-three/) | Easy |
@@ -181,6 +183,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0020-valid-parentheses](https://github.com/anuuj6268/PracticeQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anuuj6268/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anuuj6268/PracticeQuestions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
