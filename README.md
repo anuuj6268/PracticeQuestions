@@ -27,6 +27,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0283-move-zeroes](https://github.com/anuuj6268/PracticeQuestions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anuuj6268/PracticeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0739-daily-temperatures](https://github.com/anuuj6268/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
@@ -186,6 +187,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuuj6268/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anuuj6268/PracticeQuestions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anuuj6268/PracticeQuestions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/anuuj6268/PracticeQuestions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +197,7 @@ To Improve my logic building & contains the concepts that i learn
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/anuuj6268/PracticeQuestions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
