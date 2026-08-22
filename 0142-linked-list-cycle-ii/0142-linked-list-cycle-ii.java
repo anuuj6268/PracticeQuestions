@@ -10,13 +10,13 @@ public class Solution {
             fast = fast.next.next;
             if(slow==fast){
                 slow = head;
-                        while(slow!=fast){
+            while(slow!=fast){
             fast = fast.next;
             slow = slow.next;
         }
-        if(slow == fast){
+      
             return slow;
-        }
+      
             }
         }
 
