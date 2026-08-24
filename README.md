@@ -28,6 +28,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0303-range-sum-query-immutable](https://github.com/anuuj6268/PracticeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anuuj6268/PracticeQuestions/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/anuuj6268/PracticeQuestions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anuuj6268/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [0922-sort-array-by-parity-ii](https://github.com/anuuj6268/PracticeQuestions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0977-squares-of-a-sorted-array) |
@@ -184,6 +185,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/anuuj6268/PracticeQuestions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/anuuj6268/PracticeQuestions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuuj6268/PracticeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
