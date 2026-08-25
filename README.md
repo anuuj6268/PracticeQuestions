@@ -13,6 +13,7 @@ To Improve my logic building & contains the concepts that i learn
 | [0018-4sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuuj6268/PracticeQuestions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anuuj6268/PracticeQuestions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anuuj6268/PracticeQuestions/tree/master/0049-group-anagrams) |
@@ -181,6 +182,7 @@ To Improve my logic building & contains the concepts that i learn
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuuj6268/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuuj6268/PracticeQuestions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuuj6268/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuuj6268/PracticeQuestions/tree/master/0209-minimum-size-subarray-sum) |
