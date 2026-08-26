@@ -8,7 +8,6 @@ class Solution {
 
 
 
-
                 arr[1] = j;
                 }
             }
