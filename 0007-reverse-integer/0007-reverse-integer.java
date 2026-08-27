@@ -7,7 +7,7 @@ class Solution {
     x = x/10;
          }
          if((num > -2147483648) && (num < 2147483647)){
-             return num;
+             return number;
 
          }
         else{ return 0;
