@@ -3,7 +3,7 @@ class Solution {
         int arr[] = new int[2];
         for(int i = 0;i<num.length;i++){
             for(int j = i+1;j<num.length;j++){
-                if(num[i]+num[j]==target){
+                if(num[i]+numbers[j]==target){
                 arr[0] = i;
                 arr[1] = j;
                 }
