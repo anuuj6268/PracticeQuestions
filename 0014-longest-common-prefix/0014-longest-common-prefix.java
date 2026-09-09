@@ -12,7 +12,7 @@ class Solution {
                 }
             }
             sb = sb.append(str.charAt(index));
-            index++;
+            indexxxssindex++;
         ans = sb.toString();
 
         }
