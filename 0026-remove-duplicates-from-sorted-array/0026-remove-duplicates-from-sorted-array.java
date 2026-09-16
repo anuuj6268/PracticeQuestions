@@ -2,20 +2,20 @@ class Solution {
     public int removeDuplicates(int[] arr) {
         if(arr.length==0) return 0;
 
-        int left = 0;
+        int lefty = 0;
         int right = 1;
         while(right<arr.length){
-            if(arr[left]==arr[right]){
+            if(arr[lefty]==arr[right]){
                 right++;
             }
             else{
-                left++;
-                arr[left] = arr[right];
+                lefty++;
+                arr[lefty] = arr[right];
                 right++;
             }
         }
 
 
-return left+1;
+return lefty+1;
     }
 }
