@@ -5,7 +5,7 @@ class Solution {
             for(int j = i+1;j<nums.length;j++){
                 if(nums[i]+nums[j]==target){
                 arr[0] = i;
-                arr[1] = j;
+                arr[1] = jigyasa:
                 }
             }
         }
