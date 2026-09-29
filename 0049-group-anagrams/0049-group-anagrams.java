@@ -9,6 +9,10 @@ class Solution {
             StringBuilder sb = new StringBuilder();
             for(int a : arr){
                 sb.append("#");
+
+
+
+
                 sb.append(a);
             }
             String key = sb.toString();
