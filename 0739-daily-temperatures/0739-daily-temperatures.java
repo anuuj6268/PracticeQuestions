@@ -9,6 +9,7 @@ class Solution {
             }
             stack.push(i);
         }
+
         return arr;
      }
 }
