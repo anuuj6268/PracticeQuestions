@@ -10,6 +10,9 @@ class Solution {
     }
 
 for(int num:arr){
+
+
+
     if(num!=0){
         return false;
     }
