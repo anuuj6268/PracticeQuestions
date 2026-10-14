@@ -4,6 +4,11 @@ class Solution {
         while (numb != 0) {
             num = num + (numb % 2);
             numb = numb / 2;
+
+
+
+
+
         }
         return num;
     }
