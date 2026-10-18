@@ -11,6 +11,9 @@ class Solution {
             while(left<right){
                 int sum = nums[left]+nums[right];
 
+
+
+
                 if(sum==target){
         List<Integer> arr = new ArrayList<>();
                     arr.add(-target);
