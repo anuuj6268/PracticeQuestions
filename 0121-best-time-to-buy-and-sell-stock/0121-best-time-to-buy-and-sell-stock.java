@@ -5,9 +5,7 @@ class Solution {
 
         for(int price : prices){
             if(price<lowest){
-                lowest = price;
-
-                
+                lowest = price;    
             }
             else if(gap<(price-lowest)){
                 gap = price-lowest;
