@@ -5,6 +5,8 @@ ArrayList<Integer> list = new ArrayList<>();
         for(int i = 0;i<nums.length;i++){
             sum = sum+nums[i];
             list.add(sum);
+
+            
         }
     }
     
