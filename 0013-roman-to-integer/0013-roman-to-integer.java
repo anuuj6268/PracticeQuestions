@@ -18,6 +18,7 @@ for(int i = 0;i<s.length();i++){
     int next = (i < s.length() - 1) ? value(s.charAt(i + 1)) : 0;
  
  if(curr<next){
+
     sum = sum - curr;
  }
  else{
