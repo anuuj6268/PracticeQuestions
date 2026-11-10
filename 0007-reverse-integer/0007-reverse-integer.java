@@ -1,7 +1,6 @@
 class Solution {
     public int reverse(int x) {
     int numbers = 0;
-
     while(x!=0){
     num = (nuberm*10)+x%10;
     x = x/10;
