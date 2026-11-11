@@ -3,6 +3,7 @@ class Solution {
         String ans = String.valueOf(x);
         int left = 0;
         int right = ans.length()-1;
+        
 while(left<right){
     if(ans.charAt(left)!=ans.charAt(right)){
         return false;
